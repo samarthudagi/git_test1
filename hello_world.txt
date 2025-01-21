@@ -1,2 +1,3 @@
 Adding some lines and test to it, save it and stage it
 this is the second the line 
+this is the third line
